@@ -16,9 +16,9 @@ You also need to know the name of the Image Manager Policy Set (also known as "A
 
 ![screen 1](https://github.com/javiergarza/akamai-devops-library/blob/master/image-manager/biggest-face-crop/biggest-face-drop-01.png)
 
-![screen 2](https://github.com/javiergarza/akamai-devops-library/blob/master/image-manager/biggest-face-crop//biggest-face-crop-02.png)
+![screen 2](https://github.com/javiergarza/akamai-devops-library/blob/master/image-manager/biggest-face-crop/biggest-face-crop-02.png)
 
-![screen 3](https://github.com/javiergarza/akamai-devops-library/blob/master/image-manager/biggest-face-crop//biggest-face-crop-03.png)
+![screen 3](https://github.com/javiergarza/akamai-devops-library/blob/master/image-manager/biggest-face-crop/biggest-face-crop-03.png)
 
 
 ## Sample JSON IM policy Files
